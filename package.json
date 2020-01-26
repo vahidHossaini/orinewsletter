@@ -1,0 +1,23 @@
+{
+  "name": "orinewsletter",
+  "version": "0.0.1",
+  "description": "origami core newsletter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vahidHossaini/orinewsletter.git"
+  },
+  "keywords": [
+    "origamicore",
+    "newletter"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vahidHossaini/orinewsletter/issues"
+  },
+  "homepage": "https://github.com/vahidHossaini/orinewsletter#readme"
+}
